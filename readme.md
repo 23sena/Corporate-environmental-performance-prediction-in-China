@@ -17,7 +17,7 @@ Dependencies
 **Citation**
 If you find this work useful in your research, please consider cite:
 ```
-@article{he2020sassd,
+@article{zheng2020CEPPC,
 title={Corporate environmental performance prediction in China: An empirical study of energy service companies },
 author={Saina Zheng, Chenhang He, Shu-Chien Hsu, Joseph Sarkis, and Jieh-Haur Chen},
 journal={Journal of Cleaner Production (JCLP)},
