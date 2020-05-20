@@ -1,7 +1,7 @@
 # Corporate environmental performance prediction in China: An empirical study of energy service companies 
 
 
-**Authors**: [Sena Zheng](sena.zheng@connect.polyu.hk) [Chenhang He](https://github.com/skyhehe123), [Shu-Chien Hsu](mark.hsu@polyu.edu.hk), Joseph Sarkis and Jieh-Haur Chen
+**Authors**: [Saina Zheng](sena.zheng@connect.polyu.hk) [Chenhang He](https://github.com/skyhehe123), [Shu-Chien Hsu](mark.hsu@polyu.edu.hk), Joseph Sarkis and Jieh-Haur Chen
 
 
 This code was originally used in the paper "Corporate environmental performance prediction in China: An empirical study of energy service companies", it contains three fundalmental 
