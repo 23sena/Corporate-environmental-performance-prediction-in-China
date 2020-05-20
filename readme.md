@@ -6,7 +6,7 @@
 
 This code was originally used in the paper "Corporate environmental performance prediction in China: An empirical study of energy service companies", it contains three fundalmental 
 machine learning regression model Random Forest, SVM and XGBoost. The code is well commented and can be easy to used by anyone with beginner level of python programming skills.
-The evaluation metric and visulization are also included.
+The evaluation metrics and some visualization code are also included.
 
 Dependencies
 - `python` (tested on 3.5)
@@ -14,7 +14,7 @@ Dependencies
 - `XGBoost`
 - `pandas`
 
-# Citation
+**Citation**
 If you find this work useful in your research, please consider cite:
 ```
 @article{he2020sassd,
